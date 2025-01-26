@@ -1,0 +1,31 @@
+Airport Connectivity map showing the popular location dDistance from Airport (in km)
+Police Station , 3
+Hospital , 2
+Train Station , 4
+Mall , 2
+Hotel , 3
+Resort , 5
+Casino , 3
+Pharmacy , 3
+Supermarket , 2
+Restaurant , 2
+Coffee Shop , 5
+Bank , 2
+Gym , 3
+Post Office , 3
+Gas Station , 2
+Library , 6
+Park , 3
+Movie Theater , 2
+Car Rental Agency , 3
+Petrol Pump , 2
+Shopping Center , 5
+Police Station , 4
+Bookstore , 2
+ATM , 3
+Convenience Store , 5
+Dry Cleaner , 2
+Dentist , 4
+Hardware Store , 2
+Beauty Salon , 3
+Electronics Store , 6

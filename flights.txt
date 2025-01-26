@@ -1,0 +1,92 @@
+Flight Name,Departure Time,Departure City,Arrival City,Ticket Price
+Flight1,08:00 AM,New York,London,$250
+Flight2,10:30 AM,New York,Tokyo,$800
+Flight3,12:45 PM,New York,Paris,$300
+Flight4,03:15 PM,New York,Sydney,$900
+Flight5,06:00 PM,New York,Mumbai,$600
+Flight6,08:30 AM,New York,Rio de Janeiro,$700
+Flight7,11:00 AM,New York,Beijing,$850
+Flight8,01:15 PM,New York,Berlin,$400
+Flight9,04:45 PM,New York,Cape Town,$1000
+Flight10,07:30 PM,London,New York,$250
+Flight11,09:45 AM,London,Tokyo,$750
+Flight12,11:30 AM,London,Paris,$200
+Flight13,02:00 PM,London,Sydney,$850
+Flight14,04:45 PM,London,Mumbai,$500
+Flight15,07:15 PM,London,Rio de Janeiro,$600
+Flight16,09:30 AM,London,Beijing,$800
+Flight17,12:00 PM,London,Berlin,$350
+Flight18,02:30 PM,London,Cape Town,$950
+Flight19,05:15 PM,Tokyo,New York,$800
+Flight20,07:30 AM,Tokyo,London,$750
+Flight21,10:15 AM,Tokyo,Paris,$400
+Flight22,12:30 PM,Tokyo,Sydney,$950
+Flight23,03:00 PM,Tokyo,Mumbai,$700
+Flight24,06:15 PM,Tokyo,Rio de Janeiro,$800
+Flight25,08:30 AM,Tokyo,Beijing,$850
+Flight26,11:00 AM,Tokyo,Berlin,$500
+Flight27,01:45 PM,Tokyo,Cape Town,$1100
+Flight28,04:00 PM,Paris,New York,$300
+Flight29,06:30 AM,Paris,London,$200
+Flight30,09:45 AM,Paris,Tokyo,$400
+Flight31,11:00 AM,Paris,Sydney,$950
+Flight32,01:30 PM,Paris,Mumbai,$600
+Flight33,04:15 PM,Paris,Rio de Janeiro,$700
+Flight34,06:45 AM,Paris,Beijing,$850
+Flight35,09:00 AM,Paris,Berlin,$300
+Flight36,12:15 PM,Paris,Cape Town,$1050
+Flight37,03:00 PM,Sydney,New York,$900
+Flight38,05:30 AM,Sydney,London,$850
+Flight39,08:45 AM,Sydney,Tokyo,$950
+Flight40,10:30 AM,Sydney,Paris,$1000
+Flight41,01:45 PM,Sydney,Mumbai,$500
+Flight42,04:30 PM,Sydney,Rio de Janeiro,$700
+Flight43,06:00 AM,Sydney,Beijing,$1100
+Flight44,09:15 AM,Sydney,Berlin,$750
+Flight45,11:30 AM,Sydney,Cape Town,$1200
+Flight46,02:45 PM,Mumbai,New York,$600
+Flight47,05:00 AM,Mumbai,London,$500
+Flight48,07:15 AM,Mumbai,Tokyo,$700
+Flight49,09:30 AM,Mumbai,Paris,$600
+Flight50,12:45 PM,Mumbai,Sydney,$500
+Flight51,03:30 PM,Mumbai,Rio de Janeiro,$700
+Flight52,05:45 AM,Mumbai,Beijing,$900
+Flight53,08:00 AM,Mumbai,Berlin,$550
+Flight54,10:15 AM,Mumbai,Cape Town,$1200
+Flight55,01:30 PM,Rio de Janeiro,New York,$700
+Flight56,03:45 AM,Rio de Janeiro,London,$600
+Flight57,06:00 AM,Rio de Janeiro,Tokyo,$800
+Flight58,08:15 AM,Rio de Janeiro,Paris,$700
+Flight59,10:30 AM,Rio de Janeiro,Sydney,$700
+Flight60,01:45 PM,Rio de Janeiro,Mumbai,$600
+Flight61,04:00 AM,Rio de Janeiro,Beijing,$1000
+Flight62,06:15 AM,Rio de Janeiro,Berlin,$650
+Flight63,08:30 AM,Rio de Janeiro,Cape Town,$1300
+Flight64,10:45 AM,Beijing,New York,$850
+Flight65,01:00 AM,Beijing,London,$800
+Flight66,03:15 AM,Beijing,Tokyo,$850
+Flight67,05:30 AM,Beijing,Paris,$900
+Flight68,07:45 AM,Beijing,Sydney,$1100
+Flight69,10:00 AM,Beijing,Mumbai,$900
+Flight70,12:15 PM,Beijing,Rio de Janeiro,$1000
+Flight71,02:30 PM,Beijing,Berlin,$800
+Flight72,04:45 PM,Beijing,Cape Town,$1300
+Flight73,07:00 PM,Berlin,New York,$400
+Flight74,09:15 AM,Berlin,London,$350
+Flight75,11:30 AM,Berlin,Tokyo,$500
+Flight76,01:45 PM,Berlin,Paris,$300
+Flight77,04:00 PM,Berlin,Sydney,$750
+Flight78,06:15 PM,Berlin,Mumbai,$550
+Flight79,08:30 PM,Berlin,Rio de Janeiro,$650
+Flight80,10:45 AM,Berlin,Beijing,$800
+Flight81,01:00 PM,Berlin,Cape Town,$1100
+Flight82,03:15 PM,Cape Town,New York,$1000
+Flight83,05:30 AM,Cape Town,London,$950
+Flight84,07:45 AM,Cape Town,Tokyo,$1100
+Flight85,10:00 AM,Cape Town,Paris,$1050
+Flight86,12:15 PM,Cape Town,Sydney,$1200
+Flight87,02:30 PM,Cape Town,Mumbai,$1200
+Flight88,04:45 PM,Cape Town,Rio de Janeiro,$1300
+Flight89,07:00 PM,Cape Town,Beijing,$1300
+Flight90,09:15 PM,Cape Town,Berlin,$1100
+

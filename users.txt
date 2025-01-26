@@ -1,0 +1,131 @@
+Nitanshu Tak ,password1,admin
+Nitanshu Tak,password1,admin
+Deepak kumar,passaao,admin
+Shu Kurenai ,spryzen,admin
+Ashna Mittal,password33,admin
+Nishu Tak',passwordd,user
+3,3,3
+Valt aoi,passv,user
+Valt aoi],passv,user
+Shah Rukh Khan,mannat,user
+Shah Rukh Khan,mannat,user
+Saksham ,passpython,user
+salman khan,passs,user
+Nitanshu Tak,password1,user
+Valt aoi,passnew,userValt aoi,passnew,userNitanshu,passwd,user
+tester,psswd,admin
+Ayush,aayu,admin
+Nitanshu Tak ,password1,user
+tester,passnew,admin
+tester,passnew,admin
+tester,passnew,user
+tester,passnew,user
+tester,passnew,user
+tester,passnew,user
+newtester,passo,user
+newtester,passo,user
+testing,testing,user
+testing,oppo,admin
+python,program,user
+finaltesting,final,admin
+finaltesting,final,admin
+final,finale,user
+testing,test,user
+hello,python,admin
+hello1,text,admin
+Nitanshu Tak,password1,user
+admin,admin,admin
+admin , admin , admin
+user , user , user
+testuser , testuser , user
+tesst , tesst , admin
+tesst , tesst , user
+tesst , tesst , user
+india , india , user
+india , india , user
+upes , upes , user
+upess , upess , admin
+upess , upess , user
+upesdoon , doon , user
+doon , doon , user
+red , red , admin
+hell , hell , user
+yellow , yellow , admin
+orange , orange , user
+apple , apple , user
+indian , indian , user
+ind , ind , user
+hel , hel , user
+op , op , user
+a , s , user
+a , b , user
+s , s , admin
+s , s , admin
+s , s , admin
+s , s , ADMIN
+a , a , admin
+a , a , admin
+a , a , admin
+a,a,admin
+,b,user
+c,c,user
+ab,ab,user
+Nitanshu,passw,user
+devin,devin,user
+ee,ee,admin
+ee,ee,admin
+ee,ee,admin
+ys,ys,admin
+a,a,admin
+dd,dd,admin
+aa,aa,user
+ww,ww,user
+Nishuu,passqq,user
+Nishu,passqq,user
+Nitanshu Takk,password11,admin
+Nitanshu,passwor,admin
+Nishun,pss,user
+Nitanshu,random,admin
+Nitanshu ,rndom,user
+jj,hello,user
+jj,hello,user
+k,k,admin
+ryuga,hagane,user
+ryuga,hagane,user
+d,d,s
+oo,oo,user
+oo,oo,user
+oo,oo,user
+gg,gg,admin
+hh,hh,user
+qq,qq,user
+qq,qq,user
+tt,tt,admin
+rr,rr,user
+rr,rr,user
+rr,rr,user
+rr,rr,user
+rr,rr,user
+ee,ee,user
+ee,ee,admin
+ee,ee,user
+ee,ee,user
+ee,ee,user
+ee,ee,user
+ee,ee,user
+ee,ee,user
+Nitanshu Tak,flightss,user
+ff,ff,user
+abhishek yadav,1213,admin
+Nishu,random,admin
+nishu,tak,admin
+Nitanshu,tak,user
+Nitanshu,tak,user
+nishu,aa,s
+nitanshu,tak,admin
+nitanshutak,aa,aa
+Nitanshu,tak,user
+Nitanshu Tak,random,admin
+nitanshu tak,imadmin,admin
+nitanshu ki,ji,user
+Nitanshu Tak,imadmin,admin
